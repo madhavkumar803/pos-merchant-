@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+}
+
+.form1 {
+  color: white;
+  max-width: 300px;
+  position: relative;
+  left: 20%;
+  top: 80px;
+  width: 40%;
+  padding: 10px;
+  float: left;
+}

@@ -1,0 +1,16 @@
+.cartContainer p {
+  font-size: 20px;
+  float: left;
+  color: white;
+  padding: 10px 20px;
+  width: 90px;
+}
+.cartContainer button {
+  font-size: 20px;
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+.buttonCart {
+  width: 50px;
+}

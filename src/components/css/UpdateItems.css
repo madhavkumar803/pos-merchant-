@@ -1,0 +1,26 @@
+.lableUpdate {
+  width: 150px;
+  text-align: left;
+  color: white;
+  margin-right: 10px;
+  font-size: 20px;
+}
+.updateH3 {
+  background-color: red;
+  padding: 5px;
+  margin-bottom: 30px;
+  color: white;
+}
+.updateItemForm {
+  width: 80%;
+  position: relative;
+  top: 50px;
+  margin: auto;
+  /* background-color: rebeccapurple; */
+  border: 2px solid white;
+  padding: 10px;
+}
+.submitUpdate {
+  margin: 10px;
+  width: 100px;
+}
